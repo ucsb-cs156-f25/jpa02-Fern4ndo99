@@ -39,9 +39,9 @@ public class Developer {
         team.addMember("Fernando");
         team.addMember("Keyi");
         team.addMember("Catherine");
-        team.addMember("PRATIMA REDDY");
-        team.addMember("DANIEL JUNHYUK");
-        team.addMember("LOGAN CHRISTOPHER");
+        team.addMember("Pratima Reddy");
+        team.addMember("Daniel Junhyuk");
+        team.addMember("Logan Christopher");
         return team;
     }
 }
