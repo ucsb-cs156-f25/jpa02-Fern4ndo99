@@ -1,9 +1,9 @@
 # jpa02-Fern4ndo99
 
-Repo: https://github.com/ucsb-cs156-f25/jpa02-Fern4ndo99
+Repo: <https://github.com/ucsb-cs156-f25/jpa02-Fern4ndo99>
 
 
-Deployed at:  https://jpa02-fvelazquez.dokku-14.cs.ucsb.edu
+Deployed at:  <https://jpa02-fvelazquez.dokku-14.cs.ucsb.edu>
 
 
 # About this repo
